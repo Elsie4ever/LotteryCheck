@@ -1,0 +1,7 @@
+{
+  "name": "LotteryCheck",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
